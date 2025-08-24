@@ -153,3 +153,14 @@ Port : 7800
 Password : "https://discord.gg/mjS5J2K3ep"
 Secure : false    
 ```
+
+
+### Hosted by @ [Evolution Development](https://discord.gg/pnmysbPcXE)
+Version 4.0.8 <br />
+![Website](https://evolutiondevv.netlify.app/) | Need help? Join the [Support Server](https://discord.gg/pnmysbPcXE)
+```bash
+Host : darli.hidencloud.com
+Port : 24629
+Password : "freefromamit"
+Secure : false    
+```
